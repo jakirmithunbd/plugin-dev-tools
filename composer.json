@@ -1,0 +1,8 @@
+{
+    "name": "pc/myplugin",
+    "description": "practice",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Jakir\\": "./inc"}
+    }
+}
